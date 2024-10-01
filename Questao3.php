@@ -14,6 +14,8 @@
 
     echo "Filme: $filme<br>Quantidade de Ingressos: $ingresso<br>Horário: $horario<br>Preço Total: R$$total"
     ?>
-    <br><a href="index.html">Voltar a Pagina Inicial</a>
+    <br><a href="index.html">Voltar a Pagina Inicial</a><br><br>
+    <a href="Questao2.html">Retornar a Pagina Anterior</a><br><br>
+    <a href="Questao4.html">Proxima Questão</a><br><br>
 </body>
 </html>

@@ -21,9 +21,11 @@
             $preco=20*$quantidade;
             break;
     }
-    echo "<h3>Açaí Escolhido: $acai<br>Quantidade:$quantidade<br>Preço Total:R$$preco</h3>"
+    echo "<h3>Açaí Escolhido: $acai<br>Quantidade: $quantidade<br>Preço Total: R$$preco</h3>"
     ?>
         <br><a href="index.html">Voltar a Pagina Inicial</a>
+        <a href="Questao4.html">Retornar a Pagina Anterior</a><br><br>
+
     
 </body>
 </html>
